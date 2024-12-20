@@ -1,4 +1,6 @@
 <h1>Front end</h1>
 <h1> Mumbai dev</h1>
 code3
+<<<<<<< HEAD
 Chennai modified code
+=======
